@@ -1,0 +1,2 @@
+# traning
+java script concepts
